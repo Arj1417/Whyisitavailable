@@ -1,0 +1,18 @@
+git add homepoage .txt to add a file to github
+git add --a
+git status - shows changed file
+git commit -m "Comit-1 Introdution"
+git commit -a -m "Commit 8: Module complete"
+git log
+git log --oneline
+git cat-file _______________ -p put hash from log file
+git 
+ls -lart
+clear
+rm -rf .git (remove the folder)
+git checkout -b new
+git checkout master returning to master branch
+
+
+merging of branches
+git checkout new
